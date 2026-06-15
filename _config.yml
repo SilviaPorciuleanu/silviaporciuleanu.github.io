@@ -1,10 +1,14 @@
 remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
-title: Silvia Porciuleanu
-description: PhD Researcher in Political Science at the European University Institute
-logo: assets/images/IMG_8438.jpeg
+url: "https://silviaporciuleanu.github.io"
+title: "Silvia Porciuleanu"
+description: "PhD researcher in political science at the European University Institute"
+
+logo: /assets/images/IMG_8438.jpeg
 show_downloads: false
 
 email: silvia.porciuleanu@eui.eu
