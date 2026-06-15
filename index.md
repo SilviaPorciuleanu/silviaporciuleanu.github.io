@@ -9,10 +9,10 @@ Methodologically, I work with multilingual computational text analysis (machine 
 
 ## Publications
 <span style="color: #6a6a6a; font-weight: 700;">
-  Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation
+  [Mass Attitudes towards Russia’s Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/mass-attitudes-towards-russias-aggression-against-ukraine-tentative-support-for-topdown-opinion-formation/65EB75D3B5B24508474B044DFB98085A#article)
 </span>
 
-Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, <strong>Silvia Porciuleanu</strong>, and Diana Rafailova, <em>accepted at the European Journal of Political Research</em>.
+Kostelka, Filip, Martín Alberdi, Max Bradley, Toine Fiselier, Alexandra Jabbour, Nahla Mansour, Eleonora Minaeva, <strong>Silvia Porciuleanu</strong>, and Diana Rafailova, <em>European Journal of Political Research</em>.
 
 ## Working Papers
 
